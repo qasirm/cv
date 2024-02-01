@@ -99,6 +99,23 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Vendor",
+      techStack: [
+        "Side Project",
+        "JavaScript",
+        "Next.js",
+        "Supabase",
+        "Stripe",
+      ],
+      description:
+        "A MSP to connect parythrowers with vendors (and eventually partygoers)",
+      logo: ConsultlyLogo,
+      link: {
+        label: "vendorr",
+        href: "https://plannr-nf0z18mgk-qasirm.vercel.app",
+      },
+    },
+    {
       title: "Solari Splash Page",
       techStack: ["Side Project", "JavaScript", "React"],
       description:
