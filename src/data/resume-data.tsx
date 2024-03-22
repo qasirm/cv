@@ -58,7 +58,7 @@ export const RESUME_DATA = {
     {
       company: "KWILL Advisors",
       link: "https://kwilladvisors.com/",
-      title: "Web Developer Developer",
+      title: "Web Developer",
       logo: ParabolLogo,
       start: "2021",
       end: "2024",
