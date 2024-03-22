@@ -24,9 +24,9 @@ export const RESUME_DATA = {
   initials: "QM",
   location: "Los Angeles, CA",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Web Developer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a Web Developer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://astral.framer.website/",
   contact: {
@@ -58,12 +58,12 @@ export const RESUME_DATA = {
     {
       company: "KWILL Advisors",
       link: "https://kwilladvisors.com/",
-      title: "Full Stack Developer",
+      title: "Web Developer Developer",
       logo: ParabolLogo,
       start: "2021",
       end: "2024",
       description:
-        "Developed a HIPAA-compliant full-stack application with Next.js, managing 500+ orders, built 11 websites, and led a data integration project to streamline data warehousing and automation.",
+        "Developed HIPAA-compliant full-stack order portal with Next.js, built 11 websites, and am leading a data integration project to streamline data warehousing and automation.",
     },
     {
       company: "PwC",
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2021",
       description:
-        "Built handbook in ADO wiki, doubling the team's close rate, introduced the RICE framework to halve backlog size, and integrated pull requests into the wiki.",
+        "Built handbook in ADO wiki, doubling the team's close rate, introduced the RICE framework to halve backlog size, and integrated use of pull requests",
     },
     {
       company: "Astral",
@@ -98,6 +98,16 @@ export const RESUME_DATA = {
     "WebRTC",
   ],
   projects: [
+    {
+      title: "Jim Davis Art",
+      techStack: ["JavaScript", "Next.js", "Supabase"],
+      description: "An online art gallery",
+      logo: ConsultlyLogo,
+      link: {
+        label: "vendorr",
+        href: "https://jimdavisart.vercel.app",
+      },
+    },
     {
       title: "Vendor",
       techStack: [
