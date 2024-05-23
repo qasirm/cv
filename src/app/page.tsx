@@ -83,7 +83,7 @@ export default function Page() {
           <h4 className="pt-4 font-mono text-sm">About me:</h4>
           <ul className="leading-2 ml-4 list-disc text-pretty font-mono text-sm text-muted-foreground">
             <li>Based in Los Angeles, CA</li>
-            <li>Studying Business & Comp Programming at USC</li>
+            <li>B.S in Business & Computer Programming from USC</li>
             <li>Designer turned developer</li>
           </ul>
         </Section>
